@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\testlast -I "E:\ARM QRS\ARM\RV31\Inc" -I "E:\ARM QRS\ARM\CMSIS\Include" -I "E:\ARM QRS\ARM\Inc\Luminary" -o "kitronix320x240x16_ssd2119_8bit.o" --omf_browse "kitronix320x240x16_ssd2119_8bit.crf" --depend "kitronix320x240x16_ssd2119_8bit.d" "drivers\kitronix320x240x16_ssd2119_8bit.c"

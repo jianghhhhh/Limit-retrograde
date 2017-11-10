@@ -1,0 +1,27 @@
+*** Creating Trace Output File 'LASTTEST.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '".\driverlib\rvmdk\driverlib.lib"'
+### List of Objects: adding '".\grlib\rvmdk\grlib.lib"'
+### List of Objects: adding '"kitronix320x240x16_ssd2119_8bit.o"'
+### List of Objects: adding '"set_pinout.o"'
+### List of Objects: adding '"touch.o"'
+### List of Objects: adding '"1.o"'
+### List of Objects: adding '"2.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup.o" "main.o" "E:\ARM QRS\testlast\driverlib\rvmdk\driverlib.lib" "E:\ARM QRS\testlast\grlib\rvmdk\grlib.lib" "kitronix320x240x16_ssd2119_8bit.o" "set_pinout.o" "touch.o" "1.o" "2.o" --library_type=microlib --strict --scatter "LASTTEST.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\LASTTEST.map" -o "LASTTEST.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'LASTTEST.axf'
+### ADS-LD Command File: 'LASTTEST.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'LASTTEST.lnp', Handle=0x00001524
+### Writing '.lnp' file
+### ADS-LD Command file 'LASTTEST.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

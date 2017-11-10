@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\testlast -I "E:\ARM QRS\ARM\RV31\Inc" -I "E:\ARM QRS\ARM\CMSIS\Include" -I "E:\ARM QRS\ARM\Inc\Luminary" -o "1.o" --omf_browse "1.crf" --depend "1.d" "1.c"

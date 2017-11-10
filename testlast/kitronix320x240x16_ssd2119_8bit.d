@@ -1,0 +1,13 @@
+kitronix320x240x16_ssd2119_8bit.o: drivers\kitronix320x240x16_ssd2119_8bit.c
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\inc/hw_gpio.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\inc/hw_ints.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\inc/hw_memmap.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\inc/hw_types.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\driverlib/gpio.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\driverlib/epi.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\driverlib/interrupt.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\driverlib/sysctl.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\driverlib/timer.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\grlib/grlib.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\drivers/kitronix320x240x16_ssd2119_8bit.h
+kitronix320x240x16_ssd2119_8bit.o: ..\testlast\drivers/set_pinout.h

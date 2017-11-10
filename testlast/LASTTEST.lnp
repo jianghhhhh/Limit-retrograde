@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup.o" "main.o" "E:\ARM QRS\testlast\driverlib\rvmdk\driverlib.lib" "E:\ARM QRS\testlast\grlib\rvmdk\grlib.lib" "kitronix320x240x16_ssd2119_8bit.o" "set_pinout.o" "touch.o" "1.o" "2.o" --library_type=microlib --strict --scatter "LASTTEST.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\LASTTEST.map" -o "LASTTEST.axf"

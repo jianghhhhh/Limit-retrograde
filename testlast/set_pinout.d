@@ -1,0 +1,10 @@
+set_pinout.o: drivers\set_pinout.c
+set_pinout.o: ..\testlast\inc/hw_memmap.h
+set_pinout.o: ..\testlast\inc/hw_types.h
+set_pinout.o: ..\testlast\inc/hw_gpio.h
+set_pinout.o: ..\testlast\driverlib/sysctl.h
+set_pinout.o: ..\testlast\driverlib/i2c.h
+set_pinout.o: ..\testlast\driverlib/gpio.h
+set_pinout.o: ..\testlast\driverlib/epi.h
+set_pinout.o: ..\testlast\driverlib/debug.h
+set_pinout.o: drivers\set_pinout.h
